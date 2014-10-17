@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gom:home|Door43 (gom)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gom|d43-gom repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gom/archive/master.zip|d43-gom.zip]]
+
+**Recent Changes**
+{{changes>ns = gom}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gom|Ethnologue data]]
+
